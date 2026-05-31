@@ -152,7 +152,7 @@ MIT License - feel free to use this code for learning or your projects.
 
 **LinguaReply AI** - Built to break language barriers
 
-For questions or feedback: hello@linguareply.ai
+For questions or feedback: khimanifaizan228@gmail.com
 
 ---
 
